@@ -1,0 +1,5 @@
+D:\Projects\Poker\Poker\bin\Debug\Poker.exe.config
+D:\Projects\Poker\Poker\bin\Debug\Poker.exe
+D:\Projects\Poker\Poker\bin\Debug\Poker.pdb
+D:\Projects\Poker\Poker\obj\Debug\Poker.exe
+D:\Projects\Poker\Poker\obj\Debug\Poker.pdb
